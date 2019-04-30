@@ -1,0 +1,6 @@
+1. Double CLick Reset Button to get CIRCUITBOOT drive
+2. Copy erase_m0.uf2 to the drive
+3. Device will reset and BOOT drive will re-appear
+4. Copy CircuitPython uf2 file to the drive
+5. Device will reset and CIRCUITPY drive will appear
+6. Copy & Replace all files with contents of gemma_m0_3.0.0 folder (this is 2.0.0 with updated lib files for CP v3)
